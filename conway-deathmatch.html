@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Conway's Game of Life</title>
+    <link rel="stylesheet" href="conway-deathmatch.css" />
+  </head>
+  <body>
+    <h1>Conway's Game of Life - Deathmatch Edition</h1>
+    <div id="controls">
+      <button id="next">Next Step</button>
+      <button id="start">Start</button>
+      <button id="stop">Stop</button>
+      <button id="reset">Reset</button>
+      <div>
+        Place cells, then press start. Wait until equilibrium is reached. Player
+        board with more conquered fields (orange) glows yellow.
+      </div>
+    </div>
+    <div id="boards">
+      <div id="green" class="board"></div>
+      <div id="red" class="board"></div>
+    </div>
+    <script src="conway-deathmatch.js"></script>
+  </body>
+</html>
