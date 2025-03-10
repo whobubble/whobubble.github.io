@@ -7,29 +7,55 @@
 
 ### 4 player Webtris
 
-* https://whobubble.github.io/4p-webtris
+* Play here: https://whobubble.github.io/4p-webtris
 
 ![4p-webtris](4p-webtris.png)
 ![4p-webtris](4p-webtris.gif)
 
+#### How to Play
+
+* Open index.html in the browser
+* Use the keys indicated below the boards to turn, move and drop
+
 ### Webtris
 
-* https://whobubble.github.io/webtris
+* Play here: https://whobubble.github.io/webtris
 
 ![webtris](webtris.png)
 ![webtris](webtris.gif)
 
+#### How to Play
+
+* Open index.html in the browser
+* Use the arrow keys to play
+** Up: Turn right
+** Down: Drop immediately
+** Left: Move left
+** Right: Move right
+
 ### Conway's Game of Life - Deathmatch Edition
 
-* https://whobubble.github.io/conway-deathmatch
+* Play here: https://whobubble.github.io/conway-deathmatch
 
 ![conway-deathmatch](conway-deathmatch.png)
 ![conway-deathmatch](conway-deathmatch.gif)
 
+#### How to Play
+
+* Open index.html in the browser
+* Place cells, then press start. 
+* Wait until equilibrium is reached.
+* Player board with more conquered fields (orange) glows yellow.
+
 ### Conway's Game of Life
 
-* https://whobubble.github.io/conway
+* Play here: https://whobubble.github.io/conway
 
 ![conway](conway.png)
 ![conway](conway.gif)
+
+#### How to Play
+
+* Open index.html in the browser
+* Place cells, then press start. 
 
