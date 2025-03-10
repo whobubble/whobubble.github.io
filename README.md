@@ -15,7 +15,6 @@
 
 #### How to Play
 
-* Open index.html in the browser
 * Use the keys indicated below the boards to turn, move and drop
 
 ### Webtris
@@ -28,7 +27,6 @@
 
 #### How to Play
 
-* Open index.html in the browser
 * Use the arrow keys to play
    * Up: Turn right
    * Down: Drop immediately
@@ -45,7 +43,6 @@
 
 #### How to Play
 
-* Open index.html in the browser
 * Place cells, then press start. 
 * Wait until equilibrium is reached.
 * Player board with more conquered fields (orange) glows yellow.
@@ -59,4 +56,5 @@
 ![conway](conway.png)
 ![conway](conway.gif)
 
-
+#### How to Play
+* Place cells, then press start. 
