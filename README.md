@@ -8,6 +8,7 @@
 ### 4 player Webtris
 
 * Play here: https://whobubble.github.io/4p-webtris
+* Repo: https://github.com/whobubble/4p-webtris
 
 ![4p-webtris](4p-webtris.png)
 ![4p-webtris](4p-webtris.gif)
@@ -20,6 +21,7 @@
 ### Webtris
 
 * Play here: https://whobubble.github.io/webtris
+* Repo: https://github.com/whobubble/webtris
 
 ![webtris](webtris.png)
 ![webtris](webtris.gif)
@@ -36,6 +38,7 @@
 ### Conway's Game of Life - Deathmatch Edition
 
 * Play here: https://whobubble.github.io/conway-deathmatch
+* Repo: https://github.com/whobubble/conway-deathmatch
 
 ![conway-deathmatch](conway-deathmatch.png)
 ![conway-deathmatch](conway-deathmatch.gif)
@@ -50,12 +53,10 @@
 ### Conway's Game of Life
 
 * Play here: https://whobubble.github.io/conway
+* Repo: https://github.com/whobubble/conway
+
 
 ![conway](conway.png)
 ![conway](conway.gif)
 
-#### How to Play
-
-* Open index.html in the browser
-* Place cells, then press start. 
 
