@@ -30,10 +30,10 @@
 
 * Open index.html in the browser
 * Use the arrow keys to play
-** Up: Turn right
-** Down: Drop immediately
-** Left: Move left
-** Right: Move right
+   * Up: Turn right
+   * Down: Drop immediately
+   * Left: Move left
+   * Right: Move right
 
 ### Conway's Game of Life - Deathmatch Edition
 
