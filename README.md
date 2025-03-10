@@ -23,8 +23,8 @@
 * Play here: https://whobubble.github.io/webtris
 * Repo: https://github.com/whobubble/webtris
 
-![webtris](webtris.png)
-![webtris](webtris.gif)
+<img src="webtris.png" alt="webtris" style="width:200px;"/>
+<img src="webtris.gif" alt="webtris" style="width:200px;"/>
 
 #### How to Play
 
